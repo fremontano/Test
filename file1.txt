@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Rama principal message file modificado
-=======
 Rama principal message file modificado
 
 
@@ -9,4 +6,3 @@ Rama principal message file modificado
 
 
 mensaje de la rama2 para agregar
->>>>>>> rama2
